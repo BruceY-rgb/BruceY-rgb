@@ -1,0 +1,51 @@
+name: Update README
+
+on:
+  schedule:
+    # 每天 UTC 00:00 (北京时间 08:00) 更新
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: |
+          npm install -g @vercel/node
+          npm install axios moment
+
+      - name: Fetch latest activity
+        run: |
+          echo "Fetching latest activity..."
+          # 这里可以添加获取最新博客、YouTube视频等的逻辑
+          # 例如：从RSS feed获取最新文章
+          # curl -s https://api.rss2json.com/v1/api.json?rss_url=YOUR_RSS_URL
+
+      - name: Update README with new content
+        run: |
+          echo "README update completed at $(date)"
+          # 可以添加自动更新README内容的逻辑
+          # 例如：更新"最近活动"部分、添加新的项目等
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: Auto-update README [skip ci]"
+          branch: main
+          file_pattern: README.md
+          commit_user_name: GitHub Actions
+          commit_user_email: actions@github.com
