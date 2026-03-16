@@ -6,9 +6,17 @@
 
 </div>
 
----
-
 <div align="center">
+
+### 🤖 OPERATOR BRIEFING
+
+This is Bruce Yang. 📍Hangzhou, China. I am an undergraduate student at Zhejiang University, about to pursue a master's degree in the United States, majoring in Computer Science and Technology. I am currently engaged in research on machine learning and reinforcement learning, while interning at a startup as a full-stack developer. I have a strong passion for engineering despite my coding skills not being outstanding, and I sincerely hope to meet some excellent people here.
+
+📧 1038794832@qq.com | 3230104703@zju.edu.cn
+
+</div>
+
+---
 
 ## 📊 PROFILE ANALYTICS DASHBOARD 📊
 
