@@ -28,24 +28,15 @@
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/250px-FC_Barcelona_%28crest%29.svg.png" alt="FC Barcelona crest" height="92" /><br />
-      <strong>FC Barcelona</strong><br />
-      <sub>Ten years' cluster</sub>
+    <td align="center" width="50%">
+      <img src="assets/barca-glow-card.png" alt="FC Barcelona glow card" width="100%" />
     </td>
-    <td align="center" width="25%">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Houston_Rockets.svg/250px-Houston_Rockets.svg.png" alt="Houston Rockets logo" height="92" /><br />
-      <strong>Houston Rockets</strong><br />
-      <sub>Run as one</sub>
+    <td align="center" width="50%">
+      <img src="assets/rockets-glow-card.png" alt="Houston Rockets glow card" width="100%" />
     </td>
-    <td align="center" width="25%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/KendrickSZASPurs230725-144_%28cropped%29_desaturated.jpg/250px-KendrickSZASPurs230725-144_%28cropped%29_desaturated.jpg" alt="Kendrick Lamar" height="92" /><br />
-      <strong>Kendrick Lamar</strong><br />
-      <sub>writing with intent</sub>
-    </td>
-
   </tr>
 </table>
+
 
 ## Work Surface
 
@@ -120,4 +111,4 @@ I am always open to research conversations, engineering collaboration, and meeti
 - ZJU email: [3230104703@zju.edu.cn](mailto:3230104703@zju.edu.cn)
 - GitHub: [BruceY-rgb](https://github.com/BruceY-rgb)
 
-<sub>Visual resources: Capsule Render, Readme Typing SVG, Shields.io, Skill Icons, Wikimedia-hosted FC Barcelona / Houston Rockets marks, and Wikimedia-hosted artist photos. ZJU logotype source: Zhejiang University visual identity resources, with the web-accessible SVG mirrored on the Wikipedia file page.</sub>
+<sub>Visual resources: Capsule Render, Readme Typing SVG, Shields.io, Skill Icons, user-supplied FC Barcelona / Houston Rockets source images, Wikimedia-hosted artist photos, and a Wikimedia-hosted FC Barcelona crest for the glow card. ZJU logotype source: Zhejiang University visual identity resources, with the web-accessible SVG mirrored on the Wikipedia file page.</sub>
