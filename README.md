@@ -1,297 +1,123 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:004D98,48:A50044,100:EDBB00&text=Bruce%20Yang&fontColor=F8FBFF&fontSize=64&fontAlignY=42&desc=Agentic%20systems%20%C2%B7%20Machine%20learning%20%C2%B7%20Full-stack%20engineering&descSize=18&descAlignY=63" alt="Bruce Yang profile hero" width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=BRUCE-Y-RGB&fontSize=70&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=%E2%9A%99%EF%B8%8F%20MECHANICAL%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER%20%E2%9A%99%EF%B8%8F&descSize=18&descAlignY=55" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=EDBB00&center=true&vCenter=true&width=780&lines=Building+agents+that+can+reason%2C+act%2C+and+evaluate;Learning+ML+%2F+RL+through+experiments+and+systems;Barca+rhythm+%2B+Houston+energy+%2B+rap+flow" alt="Typing profile lines" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=%E2%9A%A1+SYSTEM+INITIALIZED+%E2%9A%A1;%F0%9F%94%A7+BUILDING+THE+FUTURE+%F0%9F%94%A7;%F0%9F%92%BB+CODE+%7C+COFFEE+%7C+CREATE+%F0%9F%92%BB;%F0%9F%A4%96+MECHANICAL+MODE+ACTIVE+%F0%9F%A4%96" alt="Typing SVG" />
+<p align="center">
+  <a href="mailto:1038794832@qq.com"><img src="https://img.shields.io/badge/Email-1038794832%40qq.com-003f88?style=flat-square&logo=gmail&logoColor=white" alt="Email 1038794832@qq.com" /></a>
+  <a href="mailto:3230104703@zju.edu.cn"><img src="https://img.shields.io/badge/ZJU-3230104703%40zju.edu.cn-003f88?style=flat-square&logo=maildotru&logoColor=white" alt="ZJU email" /></a>
+  <a href="https://github.com/BruceY-rgb"><img src="https://img.shields.io/badge/GitHub-BruceY--rgb-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub BruceY-rgb" /></a>
+</p>
 
-</div>
+<p align="center">
+  <img src="assets/zju-capsule.svg" alt="Zhejiang University - Qiushi Innovation" width="640" />
+</p>
 
-<div align="center">
+## Profile
 
-### 🤖 OPERATOR BRIEFING
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="waving hand" width="20" height="20" /> I am Bruce Yang, an undergraduate student at Zhejiang University preparing for graduate study in Computer Science in the United States.
 
-This is Bruce Yang. 📍Hangzhou, China. I am an undergraduate student at Zhejiang University, about to pursue a master's degree in the United States, majoring in Computer Science and Technology. I am currently engaged in research on machine learning and reinforcement learning, while interning at a startup as a full-stack developer. I have a strong passion for engineering despite my coding skills not being outstanding, and I sincerely hope to meet some excellent people here.
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="robot" width="20" height="20" /> My current focus is agentic systems, machine learning, and reinforcement learning: how models reason, act, evaluate, and connect with real software workflows. I also work as a full-stack developer, so I care about taking ideas from experiments to usable products.
 
-📧 1038794832@qq.com | 3230104703@zju.edu.cn
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26bd/512.gif" alt="football" width="18" height="18" /> Outside code, I follow FC Barcelona, the Houston Rockets <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c0/512.gif" alt="basketball" width="18" height="18" />, and rap <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" alt="music notes" width="18" height="18" />. Good systems, good attacks, and good verses all need rhythm, structure, and timing.
 
-</div>
-
----
-
-## 📊 PROFILE ANALYTICS DASHBOARD 📊
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BruceY-rgb&theme=dark&utcOffset=8)
-
-</td>
-<td align="center" width="50%">
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BruceY-rgb&theme=dark&utcOffset=8&metrics=commits,issues,prs)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BruceY-rgb&theme=dark&utcOffset=8)
-
-</td>
-<td align="center" width="50%">
-
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BruceY-rgb&theme=dark&utcOffset=8)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ STATISTICS OVERVIEW ⚡
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BruceY-rgb&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&rank_icon=github)
-
-</td>
-<td align="center" width="50%">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BruceY-rgb&theme=dark&background=0d1117&border=00ff41&ring=00ff41&fire=00ff41&stroke=00ff41&utcOffset=8)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 ACHIEVEMENT SYSTEM 🏆
-
-<img src="https://github-profile-trophy.vercel.app/?username=BruceY-rgb&theme=onestar&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="Trophy" />
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 LANGUAGE DISTRIBUTION 💻
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceY-rgb&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&langs_count=10" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 3D CONTRIBUTION MATRIX 🎯
-
-<img src="https://ssr-contributions-graph.vercel.app/api?username=BruceY-rgb&theme=vector-dark&utcOffset=8" alt="3D Contributions" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 ACTIVITY FLOW GRAPH 📈
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BruceY-rgb&theme=github-compact&hide_border=false&bg_color=0d1117&color=00ff41&line=00d084&point=ffffff&area=true&custom_title=⚙️%20COMMIT%20ACTIVITY%20GRAPH%20⚙️" width="98%" alt="Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 ANIMATED CONTRIBUTION SNAKE 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
-  <img src="assets/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ TECHNICAL ARSENAL 🛠️
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nodejs,python,java,go,rust,php,cpp,mysql,mongodb,postgres,redis,docker,kubernetes,aws,gcp,azure,linux,git,github,gitlab,vscode,idea,androidstudio,figma&theme=dark&perline=15" alt="skills" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🔧 CORE TECHNOLOGY STACK 🔧
+## Identity Board
 
 <table>
-<tr>
-<td align="center" width="33%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/250px-FC_Barcelona_%28crest%29.svg.png" alt="FC Barcelona crest" height="92" /><br />
+      <strong>FC Barcelona</strong><br />
+      <sub>Ten years' cluster</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Houston_Rockets.svg/250px-Houston_Rockets.svg.png" alt="Houston Rockets logo" height="92" /><br />
+      <strong>Houston Rockets</strong><br />
+      <sub>Run as one</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/KendrickSZASPurs230725-144_%28cropped%29_desaturated.jpg/250px-KendrickSZASPurs230725-144_%28cropped%29_desaturated.jpg" alt="Kendrick Lamar" height="92" /><br />
+      <strong>Kendrick Lamar</strong><br />
+      <sub>writing with intent</sub>
+    </td>
 
-**FRONTEND STACK**
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-**BACKEND STACK**
-
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-**DEVOPS STACK**
-
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-</td>
-</tr>
+  </tr>
 </table>
 
-</div>
+## Work Surface
 
----
+<table>
+  <tr>
+    <td width="33%">
+      <strong>Agent Systems</strong><br />
+      <img src="https://img.shields.io/badge/tool%20use-0d1117?style=flat-square&logo=openai&logoColor=white" alt="tool use" />
+      <img src="https://img.shields.io/badge/evals-a50044?style=flat-square" alt="evals" />
+      <img src="https://img.shields.io/badge/memory-004d98?style=flat-square" alt="memory" /><br />
+      Tool use, workflow orchestration, memory, evaluation, and model-facing product loops.
+    </td>
+    <td width="33%">
+      <strong>ML / RL</strong><br />
+      <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/RL-edbb00?style=flat-square&logoColor=111111" alt="RL" />
+      <img src="https://img.shields.io/badge/experiments-003f88?style=flat-square" alt="experiments" /><br />
+      Learning algorithms, reinforcement learning, model behavior, and experiment design.
+    </td>
+    <td width="33%">
+      <strong>Product Engineering</strong><br />
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Postgres-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" /><br />
+      Interfaces, APIs, databases, and deployment work that make research usable.
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+## Stack
 
-## 💾 DATABASE SYSTEMS 💾
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,ts,react,nextjs,nodejs,fastapi,postgres,mongodb,docker,linux,git,github,vscode&theme=dark&perline=8" alt="Python, PyTorch, TensorFlow, scikit-learn, TypeScript, React, Next.js, Node.js, FastAPI, PostgreSQL, MongoDB, Docker, Linux, Git, GitHub, VS Code" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## GitHub Console
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=92&color=0:1A1B27,45:7A3E9D,100:EDBB00&text=NEO%20TOKYO%20GITHUB%20CONSOLE&fontColor=F8FBFF&fontSize=28&desc=commit%20signals%20%C2%B7%20repo%20surface%20%C2%B7%20night%20build%20mode&descSize=13&descAlignY=72" alt="Neo Tokyo GitHub Console" width="100%" />
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BruceY-rgb&style=for-the-badge&color=ff79c6&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/BruceY-rgb?style=for-the-badge&color=7aa2f7&labelColor=1a1b27&logo=github&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/BruceY-rgb?style=for-the-badge&color=edbb00&labelColor=1a1b27&logo=github&label=TOTAL+STARS" alt="GitHub stars" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BruceY-rgb&theme=tokyonight" alt="BruceY-rgb GitHub profile details" width="100%" />
+</p>
 
-## 📡 COMMUNICATION CHANNELS 📡
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BruceY-rgb&theme=tokyonight" alt="BruceY-rgb GitHub stats" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BruceY-rgb&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="BruceY-rgb GitHub streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-%23181717.svg?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/BruceY-rgb)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-[![Email](https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=00ff41)](https://yourwebsite.com)
-[![Discord](https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BruceY-rgb&theme=tokyo-night&hide_border=true&area=true&custom_title=Night%20Build%20Activity" alt="BruceY-rgb GitHub activity graph" width="100%" />
+</p>
 
-</div>
+## Contact
 
----
+I am always open to research conversations, engineering collaboration, and meeting people who build seriously.
 
-<div align="center">
+- Email: [1038794832@qq.com](mailto:1038794832@qq.com)
+- ZJU email: [3230104703@zju.edu.cn](mailto:3230104703@zju.edu.cn)
+- GitHub: [BruceY-rgb](https://github.com/BruceY-rgb)
 
-## 🎯 MISSION STATISTICS 🎯
-
-![Profile Views](https://komarev.com/ghpvc/?username=BruceY-rgb&color=00ff41&style=for-the-badge&label=SYSTEM+ACCESS)
-![Followers](https://img.shields.io/github/followers/BruceY-rgb?style=for-the-badge&color=00ff41&labelColor=1a1a1a&logo=github&label=FOLLOWERS)
-![Total Stars](https://img.shields.io/github/stars/BruceY-rgb?style=for-the-badge&color=00ff41&labelColor=1a1a1a&logo=github&label=TOTAL+STARS)
-![Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00ff41&labelColor=1a1a1a&label=REPOSITORIES&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBruceY-rgb&logo=github)
-
-</div>
-
----
-
-<div align="center">
-
-## 💭 SYSTEM MESSAGE 💭
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=⚙️%20ALL%20SYSTEMS%20OPERATIONAL%20⚙️&fontSize=25&fontColor=00ff41&animation=twinkling" width="100%"/>
-
-</div>
-
-<!--
-═══════════════════════════════════════════════════════════════
-⚙️  100% COMPONENT-BASED DESIGN  ⚙️
-═══════════════════════════════════════════════════════════════
-This profile uses instant-load API components:
-
-✅ Capsule Render - Dynamic headers/footers with waving animation
-✅ Typing SVG - Animated mechanical slogans
-✅ Profile Summary Cards - 4 analytics cards (Profile, Productive Time, Languages, Commits)
-✅ GitHub Stats - Real-time statistics with neon green theme
-✅ Streak Stats - Contribution tracking with utcOffset=8
-✅ GitHub Trophy - Achievement display with onestar theme
-✅ SSR Contributions - 3D contribution matrix visualization
-✅ Activity Graph - Commit flow visualization
-✅ Snake Animation - Animated contribution snake (GitHub Actions)
-✅ Skill Icons - Technology stack visualization
-✅ Shields.io Badges - Custom badges and social links
-✅ GitHub Quotes - Random dev quotes
-
-NO custom ASCII art or manual text blocks!
-All components auto-update and are guaranteed to display.
-
-LAYOUT FEATURES:
-- HTML tables for structured, symmetrical layouts
-- Center-aligned grid system
-- Neon green (#00ff41) cyber-mechanical theme
-- Professional mechanical engineer aesthetic
-
-SETUP INSTRUCTIONS:
-1. ✅ Replace "BruceY-rgb" with your GitHub username (all instances)
-2. ✅ Update social media links (LinkedIn, Twitter, Email, etc.)
-3. ✅ All stats configured with utcOffset=8 (Beijing Time)
-4. ✅ Snake animation assets generated by GitHub Actions workflow
-
-CUSTOMIZATION:
-- Color scheme: #00ff41 (neon green) primary accent
-- Theme: "dark" for all components, "onestar" for trophies
-- Layout: HTML tables ensure perfect alignment
-- utcOffset: 8 for Beijing/Singapore/Hong Kong timezone
-
-═══════════════════════════════════════════════════════════════
-🔧 MECHANICAL ENGINEER MODE: ACTIVE 🔧
-═══════════════════════════════════════════════════════════════
--->
+<sub>Visual resources: Capsule Render, Readme Typing SVG, Shields.io, Skill Icons, Wikimedia-hosted FC Barcelona / Houston Rockets marks, and Wikimedia-hosted artist photos. ZJU logotype source: Zhejiang University visual identity resources, with the web-accessible SVG mirrored on the Wikipedia file page.</sub>
